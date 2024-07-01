@@ -1,2 +1,3 @@
-# Person-Search2.0
-Person-Search with nlp
+# Person-Search2.0 #
+Attempting to model personality。
+
